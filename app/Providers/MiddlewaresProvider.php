@@ -13,8 +13,8 @@ class MiddlewaresProvider
 	{
 		$application = App::getInstance();
 
-		$application->defineMiddlewareGroup('web', [
-			StartSession::class,
+		$application->web(append: [
+			//
 		]);
 
 		$application->defineMiddlewareGroup('api', [

@@ -8,5 +8,5 @@ use Aurora\http\Models\User;
 
 Route::get('/a', function () {
 	print "<pre>";
-	print_r(User::all()->toArray());
-})->middleware(['@web']);
+	print_r(Session::flashed('alma'));
+});

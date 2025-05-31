@@ -19,7 +19,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "sosoricsi/php_framework": "^0.0.3",
+        "sosoricsi/php_framework": "^0.0.4",
         "vlucas/phpdotenv": "^5.6",
         "illuminate/database": "^12.16",
         "robmorgan/phinx": "^0.16.9",

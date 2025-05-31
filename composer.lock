@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1047c2a89bb2dce0a136ad13e9c5db36",
+    "content-hash": "58c13e6d4c53af9501f1d37c0529d2e3",
     "packages": [
         {
             "name": "brick/math",
@@ -1790,16 +1790,16 @@
         },
         {
             "name": "sosoricsi/php_framework",
-            "version": "0.0.3",
+            "version": "0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/SosoRicsi/php_framework.git",
-                "reference": "d81090b3dfa1fda65fc574541419b7903ed5cd29"
+                "reference": "9e1dfab2d83804cb30551bd81d45af36206e217c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/SosoRicsi/php_framework/zipball/d81090b3dfa1fda65fc574541419b7903ed5cd29",
-                "reference": "d81090b3dfa1fda65fc574541419b7903ed5cd29",
+                "url": "https://api.github.com/repos/SosoRicsi/php_framework/zipball/9e1dfab2d83804cb30551bd81d45af36206e217c",
+                "reference": "9e1dfab2d83804cb30551bd81d45af36206e217c",
                 "shasum": ""
             },
             "require-dev": {
@@ -1826,9 +1826,9 @@
             "description": "The core package of the framework.",
             "support": {
                 "issues": "https://github.com/SosoRicsi/php_framework/issues",
-                "source": "https://github.com/SosoRicsi/php_framework/tree/0.0.3"
+                "source": "https://github.com/SosoRicsi/php_framework/tree/0.0.4"
             },
-            "time": "2025-05-30T23:20:49+00:00"
+            "time": "2025-05-31T13:47:33+00:00"
         },
         {
             "name": "symfony/clock",
