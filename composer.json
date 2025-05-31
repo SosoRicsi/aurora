@@ -1,0 +1,28 @@
+{
+    "name": "sosoricsi/aurora",
+    "description": "The aurora php framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aurora\\": "app/"
+        },
+        "files": [
+            "app/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Jarkó Richárd",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "sosoricsi/php_framework": "^0.0.3",
+        "vlucas/phpdotenv": "^5.6",
+        "illuminate/database": "^12.16",
+        "robmorgan/phinx": "^0.16.9",
+        "ramsey/uuid": "^4.7"
+    }
+}
